@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "913234292432",
+    "firebase_url": "https://tic-tac-toe-ce6f1.firebaseio.com",
+    "project_id": "tic-tac-toe-ce6f1",
+    "storage_bucket": "tic-tac-toe-ce6f1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:913234292432:android:69b25c277bc88d29d3b8d5",
+        "android_client_info": {
+          "package_name": "iplex.com.tic_tac_toe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "913234292432-4l2jm6forkrofkq9auh68qqtjla3itbq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWIXmVMi8oWRtGza8XmX7aamN1Z_HQrsw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "913234292432-4l2jm6forkrofkq9auh68qqtjla3itbq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
